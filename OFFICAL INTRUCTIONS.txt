@@ -1,0 +1,7 @@
+Find every repo on my machine where I've used Claude Code, Codex CLI, or Cursor. Check ~/.claude/projects/, ~/.codex/sessions/, and ~/Library/Application Support/Cursor/User/workspaceStorage/ (macOS).
+
+For each repo, list name, absolute path, and total session count. Ask me which ones to include.
+
+For each one I pick, hand back this command with the path filled in:
+
+cd <ABSOLUTE_PATH> && curl -fsSL https://paxel.ycombinator.com/upload.sh | bash

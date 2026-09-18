@@ -1,0 +1,20 @@
+# ===================================================
+# YC Paxel Master Hub - Git Ignore Policy
+# STRICT ZERO LEAK POLICY: Secrets & Keys Protected
+# ===================================================
+
+# Environment & API Secrets
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.cert
+*.token
+credentials.json
+secrets.json
+
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
