@@ -1,6 +1,7 @@
 # Y Combinator Paxel & Builder Profile Dossier
 
 **Founder:** Raja Muhammad Ali Asghar ([@thealidev](https://github.com/thealidev) / [@alicncltd](https://github.com/alicncltd))  
+**Primary AI Copilot & Systems Architect:** **HUSKEY**  
 **Venture:** Ali CNC (Forge AI & Industrial Intelligence Moat)  
 **Live Platform:** [https://alicnc.pk](https://alicnc.pk) | **Forge AI Demo:** [https://forge.alicnc.pk](https://forge.alicnc.pk)
 
