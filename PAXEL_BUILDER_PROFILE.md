@@ -1,10 +1,12 @@
-﻿# PAXEL BUILDER PROFILE - YC W27
-**Founder:** Raja Muhammad Ali Asghar (@thealidev)
-**Profile:** Solo Founder & CNC Systems Architect | INTJ | IQ 150+
-**Verified:** YC Paxel (0 Reverts)
+# Paxel Builder Profile: Raja Muhammad Ali Asghar (@thealidev)
 
-## Current Trajectory & Audits (Sep 25/26, 2026)
-- **RMAA Personal Portfolio (rmaa.pk):** Re-architected with custom K-Drama biases (Itaewon Class, BABYMONSTER), full i18n support (EN, KO, UR), dual WA numbers, and dynamically responsive scaling. Added official custom SVG founder logo.
-- **Ali CNC / Forge AI (alicnc.pk):** Cross-bridged the corporate CAD/CAM enterprise platform securely to the founder's lab. Injected the bold 'ALI CNC (TM01) - OFFICIAL BRAND' credentials alongside 'FBR Registered'.
-- **Tech Briefs 2026 Injections:** Broadcasted 5x Finalist statuses (Cursor of CAD, The Molecular Bond Breaker, Bio-Inspired Human Flight, The Legend-Alpha, VectorVision) directly into the telemetry of the personal brand.
-- **Execution Efficiency:** Render cloud deployments triggered asynchronously via direct GitHub action pipelines. Clean offline pushes outmaneuvering execution policies. No API leaks.
+## Founder Metrics
+- **Name:** Raja Muhammad Ali Asghar
+- **Role:** Lead Spindle Operator & AI Systems Architect
+- **Credentials:** TITANS of CNC Academy dual-certified (TITAN-2M & TITAN-3M), PSEB Registered, Web3 Grant Winner.
+- **MBTI / IQ:** INTJ / 150+
+
+## Key Engineering Strengths
+1. **Hardware-to-AI Bridging:** Expert in synthesizing CNC telemetry with AI models. Developed ForgeAI, an acoustic AI tool breakage prevention system that auto-hooks Windows drivers (NcStudio.exe) with < 30ms anomaly detection latency.
+2. **Cloud/Edge Hybrid Systems:** Mastered unified deployments (Node.js + Python pipelines) on platforms like Render, building fault-tolerant stream truncation and rate-limit handling for strict AI provider limits (e.g., Replicate).
+3. **Full-Stack AI Integration:** Contributor to major open-source AI frameworks (Unsloth Studio), building custom frontends, RAG pipelines (Supabase pgvector), and tool-healing architectures.
